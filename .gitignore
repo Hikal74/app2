@@ -1,0 +1,7 @@
+*.exe
+bin/
+obj/
+dist/
+out/
+release/
+node_modules/
